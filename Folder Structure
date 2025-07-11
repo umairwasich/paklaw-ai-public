@@ -1,0 +1,17 @@
+paklaw-ai-public/
+│
+├── backend/
+│   ├── api.py
+│   ├── requirements.txt
+│   └── laws_with_text.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── Chatbot.jsx
+│   │   └── App.jsx
+│   ├── package.json
+│   └── vercel.json
+│
+├── README.md
+└── LICENSE
