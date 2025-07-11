@@ -1,0 +1,39 @@
+.chat-container {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.chat-input {
+  width: 100%;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.chat-button {
+  margin-top: 1rem;
+  padding: 1rem 2rem;
+  background-color: #3B82F6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chat-results {
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.result-card {
+  background: #f0f0f0;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 5px solid #3B82F6;
+  border-radius: 5px;
+}
